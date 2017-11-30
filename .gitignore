@@ -11,9 +11,6 @@
 /coverage
 **/*/coverage
 
-# production
-**/*/build
-/build
 
 # production
 **/*/dist
